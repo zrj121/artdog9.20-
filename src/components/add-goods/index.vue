@@ -1,6 +1,7 @@
 <template>
     <div class="entry_b">
         <!--商品上传-->
+        <!--在注释一次-->
         <p class="entry_ts">最多上传5张</p>
         <div class="up">
             <mt-swipe :auto="3000" class="up_sw">
